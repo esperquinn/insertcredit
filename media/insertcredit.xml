@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Insert Credit Show</title>
+		<link>https://insertcredit.com/show/</link>
+		<language>en-us</language>
+		<copyright>© 2012</copyright>
+		<itunes:subtitle>The Hot Button Podcast.</itunes:subtitle>
+		<itunes:author>Insert Credit</itunes:author>
+		<itunes:summary>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Edited by Blaine Brown.</itunes:summary>
+		<description>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Edited by Blaine Brown.</description>
+		<itunes:owner>
+			<itunes:name>Brandon Sheffield</itunes:name>
+			<itunes:email>show@insertcredit.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+		<itunes:category text="Leisure">
+			<itunes:category text="Video Games"/>
+		</itunes:category>
+		<itunes:explicit>yes</itunes:explicit>
+		<item>
+			<title>Ep. 1 - Happy Birthday, Charles Manson</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Celebrating the 25th anniversary of Metal Gear.</itunes:subtitle>
+			<itunes:summary>This week frank cifaldi, tim rogers, and brandon sheffield join us to discuss Hideo Kojima, how to make MMOs fun, and skellingtons.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic001.mp3" length="30232654" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic001.mp3</guid>
+			<pubDate>Tue, 03 Jul 2012 03:04:00 GMT</pubDate>
+			<itunes:duration>1:02:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, metal gear, hideo kojima, shigesato itoi, fumito ueda, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 2 - Citizen Bonk</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>The IC cast goes loopy over free slurpees.</itunes:subtitle>
+			<itunes:summary>frank cifaldi, tim rogers, and brandon sheffield once again join us to discuss kickstarter, the history of achievements, and the meltdown of 38 Studios.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic002.mp3" length="33228377" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic002.mp3</guid>
+			<pubDate>Wed, 11 Jul 2012 04:00:00 GMT</pubDate>
+			<itunes:duration>1:08:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, kickstarter, evo, achievements, pokemon, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 3 - Shagargamel</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Come in if you want to get naughty</itunes:subtitle>
+			<itunes:summary>Is your body ready for one full hour of frank, tim, and brandon discussing time as a game design mechanic, the value of the PlayStation Vita, and how to explain Hyperdimension Neptunia to your mom? Because if so then oh man do we have a treat for you!</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic003.mp3" length="31955277" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic003.mp3</guid>
+			<pubDate>Wed, 18 Jul 2012 23:55:00 GMT</pubDate>
+			<itunes:duration>1:05:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, kickstarter, dead or alive, batman, webcomics, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 4 - Dr. Pepper Hot Dog Cafe</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>A spoiler-free walkthrough</itunes:subtitle>
+			<itunes:summary>Those Three Guys (tim, brandon, frank) return for a fourth helping of no-nonsense questioneering. Join us for a hearty discussion of Metacritic, Monster World, and mouse livers.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic004.mp3" length="33656013" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic004.mp3</guid>
+			<pubDate>Fri, 27 Jul 2012 19:24:00 GMT</pubDate>
+			<itunes:duration>1:09:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, mouse liver, monster world, gamestop, steam, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 5 - Tactical Freakout with Shawn McGrath</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Bringing the suck with two cores.</itunes:subtitle>
+			<itunes:summary>This week the Insert Credit gang is joined by Dyad creator Shawn McGrath to discuss weapon design, NPC dialogue, and the rigidity of Johnny Wadd.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic005.mp3" length="32442724" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic005.mp3</guid>
+			<pubDate>Fri, 03 Aug 2012 17:14:00 GMT</pubDate>
+			<itunes:duration>1:06:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, dyad, spec ops, sonic, shawn mcgrath, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 6 - Seattle Rhythm with Christian Nutt</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Have a good time</itunes:subtitle>
+			<itunes:summary>Fresh off his article on The Bouncer, Christian Nutt joins the gang to discuss unkept Fable promises, using the -san suffix in English writing, and Charizard.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic006.mp3" length="35829990" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic006.mp3</guid>
+			<pubDate>Fri, 10 Aug 2012 09:07:00 GMT</pubDate>
+			<itunes:duration>1:13:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, dragon quest x, tales of, fable, christian nutt, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 7 - Gamer Grub with Patrick Miller</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Press A to Mario</itunes:subtitle>
+			<itunes:summary>Insert Credit regular Patrick Miller joins us to talk about Gamescom, players of video games, and warthog drifting.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic007.mp3" length="33851340" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic007.mp3</guid>
+			<pubDate>Fri, 17 Aug 2012 23:41:00 GMT</pubDate>
+			<itunes:duration>1:09:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, mega man, halo, animal crossing, patrick miller, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 8 - Panza Vision with Vito Gesualdi</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Thanks for listening, mom</itunes:subtitle>
+			<itunes:summary>Hollywood Correspondent Vito Gesualdi pops in to talk about Nintendo Power, Turbo Play, and MAD Magazine.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic008.mp3" length="35488308" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic008.mp3</guid>
+			<pubDate>Thu, 23 Aug 2012 14:34:00 GMT</pubDate>
+			<itunes:duration>1:13:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, final fantasy ii, touhou, dark souls, animal crossing, vito gesualdi, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 9 - Al Pacino's Vegas Adventure</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Our in-depth review of 3D-Day 3.</itunes:subtitle>
+			<itunes:summary>Action Button Entertainment art director Brent Porter hangs out for some real talk about BioWare, escort missions, and how to make D-Day interesting again.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic009.mp3" length="37603314" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic009.mp3</guid>
+			<pubDate>Fri, 31 Aug 2012 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, eternal darkness, skyrim, metroid, mass effect, brent porter, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 10 - My Neighbor Totilo</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Downhill Jam!</itunes:subtitle>
+			<itunes:summary>Kotaku editor-in-chief Stephen Totilo debates with us over the validity of video game nostalgia, online comment systems, and the sanctity of the Warthog.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic010.mp3" length="36011117" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic010.mp3</guid>
+			<pubDate>Fri, 07 Sep 2012 14:00:00 GMT</pubDate>
+			<itunes:duration>1:14:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, eternal darkness, tony hawk, metroid, the sims, stephen totilo, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 11 - Big Head Mode with Adam Saltsman</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>With apologies to Cliffy B.</itunes:subtitle>
+			<itunes:summary>The Insert Credit Crew is joined by CANABALT creator Adam Saltsman to discuss the appeal of giant robots, to design a game for my old Nokia cell phone, and to play "Kill, Marry, Boff" Round 3.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic011.mp3" length="39332724" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic011.mp3</guid>
+			<pubDate>Fri, 14 Sep 2012 19:00:00 GMT</pubDate>
+			<itunes:duration>1:21:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, doom, grand theft auto, gears of war, valve, adam saltsman, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 12 - (#episodename)</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Let's get pretentious!</itunes:subtitle>
+			<itunes:summary>Action Button Dot Net columnist and Music of the Spheres developer Hamish Todd makes a special appearance to discuss cosplay, surprise sequels, and high luncheon.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic012.mp3" length="36334574" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic012.mp3</guid>
+			<pubDate>Fri, 21 Sep 2012 23:00:00 GMT</pubDate>
+			<itunes:duration>1:14:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, mega man, bayonetta, mario, angry birds, hamish todd, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 13 - Shave and a Haircut with Justin McElroy</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Starlight Magic</itunes:subtitle>
+			<itunes:summary>Jaffe tries his best not to sound like a psychopath while the host of My Brother My Brother and Me podcast Justin McElroy chats with us about Sony's trophy system, games we got as gifts, and speed running.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic013.mp3" length="38282294" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic013.mp3</guid>
+			<pubDate>Fri, 28 Sep 2012 18:00:00 GMT</pubDate>
+			<itunes:duration>1:18:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, xenoblade chronicles, borderlands 2, mass effect 3, journey, justin mcelroy, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 14 - Train Hard with Bennett Foddy</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Sometimes we kind of answer questions.</itunes:subtitle>
+			<itunes:summary>QWOP creator Bennett Foddy joins us to talk about stuff. Stuff like Alan Moore, air dropping video games, and an actual Nintendo theme park.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic014.mp3" length="33815138" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic014.mp3</guid>
+			<pubDate>Fri, 05 Oct 2012 15:00:00 GMT</pubDate>
+			<itunes:duration>1:09:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, resident evil 6, nintendoland, qwop, noby noby boy, bennett foddy, alex jaffe, tim rogers, frank cifaldi, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 15 - Not Famous Anymore</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Recorded in 4-4 waluigi time.</itunes:subtitle>
+			<itunes:summary>Christian Nutt returns by popular demand for discussion of up and coming game developers, the next career move for CliffyB, and promotional t-shirts.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic015.mp3" length="37937358" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic015.mp3</guid>
+			<pubDate>Fri, 12 Oct 2012 20:00:00 GMT</pubDate>
+			<itunes:duration>1:15:13</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, gears of war, dynasty warriors 3, bioshock, mario, christian nutt, alex jaffe, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 16 - Jump on the Giant Chicken</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>It's what the fans want.</itunes:subtitle>
+			<itunes:summary>Gamasutra Editor in Chief Kris Graft shares his opinions on region locking, naming your characters, and the battle capabilities of Fat Princess.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic016.mp3" length="37937358" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic016.mp3</guid>
+			<pubDate>Fri, 19 Oct 2012 07:00:00 GMT</pubDate>
+			<itunes:duration>1:18:05</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, landstalker, halo 4, dead or alive 5, xcom, kris graft, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 17 - HALLOWEEN SPECDRACULAR</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>FRIGHTS to meet you!</itunes:subtitle>
+			<itunes:summary>Vito Ghostualdi joins Frankenstein Cifaldi, The Grim Rogers, and that other guy to share spooky stories.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic017.mp3" length="34085174" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic017.mp3</guid>
+			<pubDate>Sun, 28 Oct 2012 03:00:00 GMT</pubDate>
+			<itunes:duration>1:10:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, halloween, resident evil, silent hill, castlevania, vito gesualdi, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 18 - Gamesptoptp</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>I'm coming, Elizabeth!</itunes:subtitle>
+			<itunes:summary>The Core Three give us the scoop on Polygon, the LucasArts buyout, and preorder bonuses.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic018.mp3" length="35957914" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic018.mp3</guid>
+			<pubDate>Fri, 02 Nov 2012 19:00:00 GMT</pubDate>
+			<itunes:duration>1:13:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, halloween, devil survivor, dishonored, maniac mansion, carmen sandiego, persona, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 20 - 9 Cent Convenience Fee</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Listen to these for the story.</itunes:subtitle>
+			<itunes:summary>Brandon's adventures in the Far East can only mean the return of Patrick Miller! Level editors, the Duckiverse, and swimsuit design are discussed.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic020.mp3" length="33885598" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic020.mp3</guid>
+			<pubDate>Sun, 11 Nov 2012 22:00:00 GMT</pubDate>
+			<itunes:duration>1:09:39</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, ducktales, dead or alive 5, bangai-o spirits, mass effect, starcraft, TNNS, alex jaffe, frank cifaldi, tim rogers, patrick miller</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 21 - Grim Fans Dango</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Really? Really!</itunes:subtitle>
+			<itunes:summary>Did you miss our very first livestreamed podcast? Because even if you did, we have the meat of it ripped out right here, cured and salted for public consumption. Tim, Frank, Brandon and Patrick Miller discuss Skyrim with guns, Tim Schafer's fanbase, and the Fender Stratocaster.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic021.mp3" length="38068744" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic021.mp3</guid>
+			<pubDate>Sun, 25 Nov 2012 06:00:00 GMT</pubDate>
+			<itunes:duration>1:18:22</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, god of war, bayonetta, mega man, resident evil, grim fandango, patrick miller, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 22 - I, Gradius</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>A total coincidence.</itunes:subtitle>
+			<itunes:summary>The Four Guys get together to livestream some real talk about fighting game spinoffs, rail shooters, and the Mayan apocalypse.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic022.mp3" length="35461658" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic022.mp3</guid>
+			<pubDate>Sun, 02 Dec 2012 01:00:00 GMT</pubDate>
+			<itunes:duration>1:12:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, death by degrees, final fantasy vi, ziggurat, minesweeper, epic games, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 23 - Antcopter</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Fueled by Dew</itunes:subtitle>
+			<itunes:summary>Another live show means discussion abounds regarding the new SimCity, the Spike VGAs, and the most pretentious video game ever made.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic023.mp3" length="34139744" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic023.mp3</guid>
+			<pubDate>Sun, 09 Dec 2012 18:00:00 GMT</pubDate>
+			<itunes:duration>1:10:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>simcity, braid, call of duty, angry birds, farmville 2, grand theft auto v, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 24 - GOTY 2012 Speculationtacular</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Wherein we discuss the Game of the Year.</itunes:subtitle>
+			<itunes:summary>We asked you for your nominations for the Game of the Year. Now let us tell you why those are all terrible.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic024.mp3" length="41965284" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic024.mp3</guid>
+			<pubDate>Fri, 14 Dec 2012 15:00:00 GMT</pubDate>
+			<itunes:duration>1:26:29</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>clash of clans, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 25 - Grateful Deadly with Jordan Morris</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Stepping on rakes Sideshow Bob style.</itunes:subtitle>
+			<itunes:summary>Jordan Jesse GO! cohost Jordan Morris joins us to talk about Chun-Li, side question, and Adrien Brody.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic025.mp3" length="38133716" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic025.mp3</guid>
+			<pubDate>Fri, 21 Dec 2012 04:00:00 GMT</pubDate>
+			<itunes:duration>1:18:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, god hand, kane and lynch, street fighter, super smash bros, clayfighter, jordan morris, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 26 - 2012 Retrospectacular</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>It was a very good year</itunes:subtitle>
+			<itunes:summary>Frank looks back on the defining moment of 2012, Tim tells us about things he would rather eat than play video games, and Brandon is there too.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic026.mp3" length="38295818" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic026.mp3</guid>
+			<pubDate>Thu, 27 Dec 2012 17:00:00 GMT</pubDate>
+			<itunes:duration>1:18:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, link's awakening, super mario bros. u, the last of us, fez, persona 4, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 27 - Insert Credit Annual #1</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle/>
+			<itunes:summary>The first installment of an annual series wherein we determine, at least for this year, what may be empirically be considered the Best Game of All Time.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic027.mp3" length="50770150" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic027.mp3</guid>
+			<pubDate>Tue, 01 Jan 2013 02:00:00 GMT</pubDate>
+			<itunes:duration>1:44:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>bonk, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 28 - The Insert Credit PS2cular</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>2000 - 2013 RIP</itunes:subtitle>
+			<itunes:summary>The insert credit crew eulogizes the Sony PlayStation 2 Computer Entertainment system. Also my dad interrupts.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic028.mp3" length="34993124" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic028.mp3</guid>
+			<pubDate>Sun, 13 Jan 2013 04:00:00 GMT</pubDate>
+			<itunes:duration>1:11:57</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>playstation 2, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 29 - Endless Walker with Kirk Hamilton</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Oh yeah, these have numbers.</itunes:subtitle>
+			<itunes:summary>Kotaku Features editor Kirk Hamilton joins us to talk about the definition of a power-up, video game hairstyles for your girlfriend, and why Capcom hates Mega Man.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic029.mp3" length="38314662" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic029.mp3</guid>
+			<pubDate>Sun, 20 Jan 2013 14:00:00 GMT</pubDate>
+			<itunes:duration>1:18:52</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>bayonetta, mega man, god hand, half life 2, star wars the old republic, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 30 - Electro-Lester The Unlikely</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>That pinball wizard's got such a supple wrist.</itunes:subtitle>
+			<itunes:summary>Ralph Nader, Club Nintendo, and our very first Improv Zone segment are all spotlighted in this episode of the Insert Credit Podcast.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic030.mp3" length="39672460" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic030.mp3</guid>
+			<pubDate>Sun, 27 Jan 2013 01:00:00 GMT</pubDate>
+			<itunes:duration>1:21:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, team fortress 2, portal, myst, call of duty, mario party, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 31 - Mein Krampft</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Not quite the holodeck from Star Trek (but close!)</itunes:subtitle>
+			<itunes:summary>Crossovers! Halo skulls! The definition of genre! All and more are discussed on this week's episode of the Insert Credit Podcast! </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic031.mp3" length="36723728" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic031.mp3</guid>
+			<pubDate>Thu, 07 Feb 2013 01:00:00 GMT</pubDate>
+			<itunes:duration>1:15:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, shin megami tensei, fire emblem, minecraft, halo, world of warcraft, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 32 - It'sa Me-Time</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Oppa Malkovich Style</itunes:subtitle>
+			<itunes:summary>Avast! Romantic subplots, machinima, and fantasy character classes off the port bow!</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic032.mp3" length="37229496" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic032.mp3</guid>
+			<pubDate>Thu, 21 Feb 2013 11:00:00 GMT</pubDate>
+			<itunes:duration>1:16:37</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 33 - The Long Con</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Brought to you by Monster Energy Drink.</itunes:subtitle>
+			<itunes:summary>3D printing peripherals, Final Boss analysis, and Jerry Lewis analogies await you in this episode of ICP.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic033.mp3" length="33823496" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic033.mp3</guid>
+			<pubDate>Thu, 21 Feb 2013 12:00:00 GMT</pubDate>
+			<itunes:duration>1:09:31</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 34 - Orbistacular</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>I am not the sister of your brother.</itunes:subtitle>
+			<itunes:summary>Just finished watching the PS4 presse conference? We can tell you what to think of it!</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic034.mp3" length="35622494" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic034.mp3</guid>
+			<pubDate>Tue, 05 Mar 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:13:16</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 35 - Podcasting Sucks</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Back on iTunes.</itunes:subtitle>
+			<itunes:summary>Guest Host Frank Cifaldi. Regular members Tim Rogers, and Brandon Sheffield (also Jaffe in the end).</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic035.mp3" length="41870937" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic035.mp3</guid>
+			<pubDate>Tue, 05 Mar 2013 19:00:00 GMT</pubDate>
+			<itunes:duration>1:26:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 36 - Video Games' Greatest Mystery</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Podcast</itunes:subtitle>
+			<itunes:summary>Insert Credit Podcast</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic036.mp3" length="32765487" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic036.mp3</guid>
+			<pubDate>Tue, 05 Mar 2013 20:00:00 GMT</pubDate>
+			<itunes:duration>1:07:19</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 37 - Enter the Drakengard</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Podcast</itunes:subtitle>
+			<itunes:summary>Insert Credit Podcast</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic037.mp3" length="36109578" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic037.mp3</guid>
+			<pubDate>Tue, 12 Mar 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:14:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 38 - Toad vs. Peach</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Guest Mike Mika.</itunes:subtitle>
+			<itunes:summary>Insert Credit talks about games with guest Mike Mika </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic038.mp3" length="37555717" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic038.mp3</guid>
+			<pubDate>Tue, 19 Mar 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, mike mika</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 39 - Not David Hayter</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Podcast</itunes:subtitle>
+			<itunes:summary>Insert Credit Podcast</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic039.mp3" length="32243247" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic039.mp3</guid>
+			<pubDate>Tue, 02 Apr 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:06:14</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 40 - Based on an Internet Poll</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Guest Patrick Miller.</itunes:subtitle>
+			<itunes:summary>Insert Credit talks about games with guest Patrick Miller.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic040.mp3" length="34457386" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic040.mp3</guid>
+			<pubDate>Tue, 09 Apr 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:10:50</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, patrick miller</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 41 - Twenty-five Percent Hog</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is Mode 8.</itunes:subtitle>
+			<itunes:summary>Star Wars Games, Fun vs. Entertainment, Best Number Game in a Series, Fixing Dynasty Warriors, Games to Play While Driving, Wii Gems, Best Level Progression System, Kill-Marry-Screw-Employ Pokemon Edition, The Unluckiest Video Game Character, Sega Does What Nintendon't, and Lightning Round The Jestons Meets The Flintstones Bowling.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic041.mp3" length="34550799" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic041.mp3</guid>
+			<pubDate>Tue, 16 Apr 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:11:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 42 - Go Big Action or Go Home Action</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Suplexing the Biggest Willy and Getting the Most Dew Done.</itunes:subtitle>
+			<itunes:summary>Vehicle Based Deathmatch Multiplayer, Guinness Book: Gamerz Edition, Greatest Feats of Strength, Tomonobu Itagaki Dreams, Best Game for Solar System Replica, Seven-Year Itch of Video Games, Coat of Arms, King of Video Games, Stages of Grief, and Lightning Round LP 2 VG.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic042.mp3" length="38336256" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic042.mp3</guid>
+			<pubDate>Thu, 25 Apr 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:18:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 43 - Slenderman with Googly Eyes</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Higher number of trucks than your average podcast.</itunes:subtitle>
+			<itunes:summary>Haircutting Games, Adaptations of Film, Oakland California, Studio with the Healthiest Social Conscience, Reverse Kingdom Hearts, My Stop Smoking Coach, Bioshock 4: A Critique of What, Which Belmont is Best, Review Categories, and Lightning Round Mascot Pitch. Music: 'Realm Overworld' performed by YouTube user DSCAccount and 'Run' by Danny Baronowsky.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic043.mp3" length="35281601" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic043.mp3</guid>
+			<pubDate>Wed, 01 May 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:12:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 44 - Straight Trippin' with Cool Shoes</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is a class of characters with character classes.</itunes:subtitle>
+			<itunes:summary>Switching Playable Characters, Linked Achievements, EA Star Wars, Sims 4, Improv DOAEBV, Themed Steam Humble Bundle, MOBA, Blood Dragon Hotness, Itadaki Street Competitor, and LR Apps to Apples. Music: 'MGS3 Theme' performed by YouTube user DSCAccount and 'Hidden Village' from the Twilight Princess OST.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic044.mp3" length="33932638" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic044.mp3</guid>
+			<pubDate>Wed, 08 May 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:09:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 45 - Listen Jerk</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>No Lightning Round Because Frank Doesn't Feel Like It.</itunes:subtitle>
+			<itunes:summary>Nintendo Unexplored Territory, Alternative to the Alternative Press Conference, Geofencing or something, Favorite Speedruns, MMTVRPG, Future of Hotel Games, Airplane Games, Full Circle Games: New SFTMTGs, and Misophonia. Music: 'The Moon' from Duck Tales NES remastered by My New Soundtrack and 'White Castle Town' from The Secret of Evermore SNES.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic045.mp3" length="36169764" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic045.mp3</guid>
+			<pubDate>Wed, 15 May 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:14:24</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 46 - Durango Unchained</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Consolation Prize: Buzzword Hand Grenade.</itunes:subtitle>
+			<itunes:summary>Is this a console?, Is this huge? (no no physically), Finally a D-Pad, Xbox Juan, Screens, Halovision, Dog of Duty, Notes on a UPad, and the Xbox One will be the what of video games. Music is from the official Xbox One Unveil Video.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic046.mp3" length="31659358" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic046.mp3</guid>
+			<pubDate>Tue, 21 May 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:05:01</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, patrick miller</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 47 - BGGOAT</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>The Best Genesis Games of All Time.</itunes:subtitle>
+			<itunes:summary>Insert Credit ranks the Best Genesis Games of All Time. Music: 'Bare Knuckle Blitz' from the Streets of Rage Series remixed by WillRock from OCRemix, 'Emerald Hill Zone' and 'Chemical Plant Zone' from Sonic the Hedgehog 2 Genesis.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic047.mp3" length="65017307" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic047.mp3</guid>
+			<pubDate>Wed, 05 Jun 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>2:14:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, sega genesis</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 48 - Obtain E3</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>The games of E3 2013.</itunes:subtitle>
+			<itunes:summary>Insert Credit ranks the most exciting games from E3 with guest Christian Nutt. Music: 'Aban Hawkins Theme' from Aban Hawkins and the 1000 Spikes XBLIG.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic048.mp3" length="60602613" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic048.mp3</guid>
+			<pubDate>Wed, 19 Jun 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>2:05:19</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 49 - Podcastiversary</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit looks back at a year of podcasts.</itunes:subtitle>
+			<itunes:summary>All things Insert Credit including History, Acronyms, Impactful Games, IC Dating Sim, Improv, The Exile Question, Game Journalism Game, Five Years From Now, and Favorite Moments as well as Lightning Round Bottom Line Review - Developer Edition. Music: 'Rydeen' by YMO and 'Bout Theme' from Mike Tyson's Punch-Out!! NES.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic049.mp3" length="37532311" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic049.mp3</guid>
+			<pubDate>Wed, 26 Jun 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:15</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 50 - The Great Mattsby</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is content with viewing a jpeg of the iceberg. With guest Chris Plante.</itunes:subtitle>
+			<itunes:summary>Don Zynga, N64 Z-Trigger, Civ Team, Fire Emblem vs. Advance Wars, Half-Life 3 Confirmed, Cavia, Decades, Muhammad Ali vs. Joe Frazier of Video Games, Mario Advice, and Lightning Round Design by Title. Music: 'The Vanishing Sky' from Bullet Witch Xbox 360 and 'Metallic Mario' from Super Mario 64 composed by Koji Kondo.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic050.mp3" length="35461324" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic050.mp3</guid>
+			<pubDate>Wed, 03 Jul 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:12:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, chris plante</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 51 - Why Not Batman?</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit will immediately consume a chicken leg from a trash can.</itunes:subtitle>
+			<itunes:summary>Best Year, If California Sank into the Ocean, Tropes, Bosses in Non-Violent Video Games, Improv Zone: Nintendo Shareholder Meeting, Rank MS Flight Simulator vs. Rock Band vs. You Don't Know Jack, Best Kitchen, Taking a Picture in Front of the Leaning Tower of Pisa So You Look Like You're Holding It Up of Video Games, Molyjam, Batman Team-Up, and Lightning Round: Playing Favorites. Music: 'Pursuit ~ Cornered (Variation)' from Phoenix Wright: Ace Attorney DS and 'Pursuit ~ Lying Coldly' from Ace Attorney Investigations: Miles Edgeworth DS.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic051.mp3" length="38671250" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic051.mp3</guid>
+			<pubDate>Wed, 10 Jul 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:19:37</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 52 - Demon Negotiation</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is PlayTastin' some Edward James Oatmeal.</itunes:subtitle>
+			<itunes:summary>Game Name Generator Design, Boss Fight Books, 1940s War Games, Second Best Year, Fringe Developers with AAA, Best Defensive Item, Recording Industry Similarities, Aptitude of Government Officials, Pete Best, and Lightning Round Apps to Apples. Music: 'To Make the End of Battle' and 'First Step Towards War' from Ys I and II Eternal PS2.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic052.mp3" length="33967328" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic052.mp3</guid>
+			<pubDate>Thu, 18 Jul 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:09:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 53 - Insert Blasstacre</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is the viscous syrup of reality.</itunes:subtitle>
+			<itunes:summary>Yuji Horii Sonic the Hedgehog, Atlus Nintendo, Google Glass, One Armed Multiplayer, Game Most Proud of Beating Without a Guide, Artistic vs. Pretentious, Best 4th Game in a Series, Disney Infinity, Worst Games to Play with the Volume Off, and Lightning Round Elevator Pitch. Music: 'Mass Destruction' From Persona 3 FES PS2 and 'Trainer Battle (Kanto)' from Pokemon HGSS DS.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic053.mp3" length="36500370" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic053.mp3</guid>
+			<pubDate>Thu, 25 Jul 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:15:06</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 54 - Married with Your Money</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Tip: You Could Google That But Maybe You Don't Want To.</itunes:subtitle>
+			<itunes:summary>Bow and Arrow, Infuriating Indies, Open World Sandbox Game Based on the Golden Age of Cartoons, Which Video Game Sequels Demonstrate How to Best Revisit the Settings from Previous Entries, The Vita Conundrum, Marriage Proposal Romhacks, Parallel Universe Nintendo Bankrupt, On What Occasions Have You Spent Fifty Dollars or More on a Single Video Game, Happy Madison Studios of Video Games, and Lightning Round Playing Favorites. Music 'Song of Storms' By Koji Kondo from Ocarina of Time N64 Jazz Version By SoundCloud user travislien and 'Gene's Rock-A-Bye' by Masafumi Takada &amp; Jun Fukuda from God Hand PS2.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic054.mp3" length="37804597" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic054.mp3</guid>
+			<pubDate>Wed, 31 Jul 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:35</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 55 - All About Vacuum Cleaners</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Takes You on a Tour of Bethesda Studios.</itunes:subtitle>
+			<itunes:summary>Luxury Cars, Gamer X LGBT Gaming Convention, Overlooked Multiplayer Game, Best Use of Rope, Heist Team, Films Reviewed Like Games, New Varieties of Pikmin, EverQuest Next, Game Industry Scary Stories, and Lightning Round Title Design. Music 'Treasure Hunter Lyle' by Motoaki Takenouchi from Landstalker for the Sega Genesis and 'Fighting Dancer' by Eri Sugai from Lady Stalker for the Super Famicom.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic055.mp3" length="34121959" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic055.mp3</guid>
+			<pubDate>Wed, 07 Aug 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:09:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, leigh alexander</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 56 - Creedence Clearwater Saga</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit loves arcade pizza.</itunes:subtitle>
+			<itunes:summary>New Consoles Revisited, Controlling Multiple Characters, Breast Game of All Time, Unrecommendable Games, Enriched Kosher Salty Bet, 1983 World Score, Games for Prisoners, Microsoft Backpedaling, Candy Crush Saga, and Lightning Round Apps to Apples. Music 'Sewer Surfin'' and 'Big Apple 3am'by Mutsuhiko Izumi from Teenage Mutant Ninja Turtles IV: Turtles in Time for the Super Nintendo.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic056.mp3" length="34953907" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic056.mp3</guid>
+			<pubDate>Wed, 14 Aug 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:11:39</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 57 - Climb the Madden</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>You Can't Drink Coffee in the Lightning Round.</itunes:subtitle>
+			<itunes:summary>5 Minute Assessments, Visual Styles, Gamescom, Killing Batman, Gone Home Future, Poor Marketing, Dive Kick, Best Super Move, Superman IV, and Lightning Round Bottom Line Reviews. Music 'Bloody Tears' from Castlevania Judgment and 'Bowser's Galaxy Generator' from Super Mario Galaxy 2.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic057.mp3" length="34929038" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic057.mp3</guid>
+			<pubDate>Wed, 21 Aug 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:11:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 58 - Movie Theater Popcorn Money</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is Slick and Hand-Holdable.</itunes:subtitle>
+			<itunes:summary>Madden 25, Title Music, TwoNity, TwoDS, Nintendo Giving up on the D, and Retro 1080p Kickflip. Music 'Title Theme' from Valis 3 for the Sega Genesis.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic058.mp3" length="32225678" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic058.mp3</guid>
+			<pubDate>Wed, 28 Aug 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:05:58</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 59 - The Rise and Fall of Breasts in Zero G</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Engineers Sex with a Robot Orb.</itunes:subtitle>
+			<itunes:summary>Pax Prime Time, Dickwolves, Miyazaki, Inafune, Saints Row IV Critique, Improv Zone - Sonic the Hedgehog Movie, Documentaries, and Lightning Round Playing Favorites TV Edition. Music 'Dr. Wily's Stage' from Megaman 2 for the NES performed by YouTube user DSCAccount and 'Corneria' from Star Fox for the SNES.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic059.mp3" length="33862615" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic059.mp3</guid>
+			<pubDate>Tue, 03 Sep 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:09:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 60 - Veneer of Sophistication</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Building Staircases on Top of People's Heads.</itunes:subtitle>
+			<itunes:summary>Defining Moments, Interior Design, Twine, Erotic Games, Best Jetpack, Billion Dollar Game, Intriguing Features, Best Annual Series, Diet of a Protagonist, and Lightning Round Pitch Meeting. Music 'Message from Nightopia' from NiGHTS into Dreams for the Sega Saturn and 'Ally Attack' from Fire Emblem Seisen no Keifu for the Super Famicom.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic060.mp3" length="40755180" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic060.mp3</guid>
+			<pubDate>Tue, 10 Sep 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:23:44</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, cheapyd</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 61 - Grand Theftcast</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Talks GTA V.</itunes:subtitle>
+			<itunes:summary>Holodeck, Female Protagonist, Yakuza, Honest Jobs, Elementary School Myths, Maturity, Film Genres, Previous GTAs, and Lightning Round Rockstar Report Card. Music 'Loading Theme' from GTA IV for the Xbox 360 and 'Loading Theme' from GTA San Andreas for the PS2.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic061.mp3" length="39328267" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic061.mp3</guid>
+			<pubDate>Tue, 17 Sep 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:20:46</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 62 - Dinosaur Sexual Energy</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Welcomes First Time Listeners.</itunes:subtitle>
+			<itunes:summary>TGS, Tim Used to Live in Japan, Steam Controller, Link Between Worlds Items, Small Game Companies Fight Back, Improv Zone - MMO First Date, Kept Promises, Best King, Hiroshi Yamauchi Memories, and Lightning Round Title Design - Art as Games. Music 'Overworld Music' from Dragon Quest V for the SNES and 'Battle Theme' from Dragon Quest V for the DS. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic062.mp3" length="35889299" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic062.mp3</guid>
+			<pubDate>Tue, 01 Oct 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:13:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 63 - BSNESGOAT</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Ranks the Best Super Nintendo Games of All Time.</itunes:subtitle>
+			<itunes:summary>Music 'Sinistral Battle Theme' from Lufia Curse of the Sinistrals DS.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic063.mp3" length="70541459" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic063.mp3</guid>
+			<pubDate>Wed, 09 Oct 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>2:25:47</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, christian nutt</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 64 - Sexy 2DS and Naked Chess</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Makes You a Jill Sandwich.</itunes:subtitle>
+			<itunes:summary>Intended Commercial Reach, Costumes of 2013, Europe vs. America, Yoko Ono, Non-MMO Weekly Game Series, Points for Trying, Best Vest, Which Games Should Get Deluxe Treatment, Chess Legacy, and Lightning Round Bottom Line Review. Music 'Angry Birds Theme' from Angry Birds iOS Covered by Pomplamoose and 'Theme of the Last Battle' from Professor Layton and the Last Specter DS.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic064.mp3" length="29545724" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic064.mp3</guid>
+			<pubDate>Mon, 14 Oct 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:00:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 65 - The Porn Episode</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Loves a Good Lady in a Shirt.</itunes:subtitle>
+			<itunes:summary>Baffling Releases, Best Looking Pre-NES Games, Remakes and Remasters, Sophie's Choice, Indie Games Today, Future Nostalgia, Wii Memories, Video Game Characters and You, Redeeming Qualities, Good Realistic Shooters, and Lightning Round Playing Favorites. Music 'Impetus' from Bit.Trip Runner and 'BGM 1' from PAC-MAN Championship Edition DX.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic065.mp3" length="33127634" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic065.mp3</guid>
+			<pubDate>Wed, 23 Oct 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:07:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, ian adams</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 66 - A Pink to the Last</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Presents Boobs in the Sand - Championship Edition.</itunes:subtitle>
+			<itunes:summary>Fix Free To Play, Fun, Relationship with Video Games, Most Personally Empowering Game, Biggest Game Argument, Alternatives to Video Games in a Post-Apocalyptic Wasteland, Most Poisonous Development, Video Games Left Us Behind, and Final Round Shame Famitsu. Music 'The Infinite Teatime' from Jeff and Casey Time and 'Undercurrent' from Braid.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic066.mp3" length="39056385" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic066.mp3</guid>
+			<pubDate>Tue, 29 Oct 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:20:12</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, david hellman</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 67 - Fire, Water, and Quiet Revenge</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Is Chock-Full of Fruit Ions.</itunes:subtitle>
+			<itunes:summary>Waning Interest in Kickstarters, Early Consoles, Dad Talk, Mozart and Salieri, Innovative Evolution Conditions, Game Food Groups, Suppressing Desire to Play Games, Video Game Trade Schools and Lightning Round Title Design - Batman Stories. Music 'K.K. Cruisin' True Remix' Remastered by YouTube User Mesmonium Based Off of the Song 'Cruisin'' from Animal Crossing City Folk for the Wii and 'Title Theme' from NBA Jam for the SNES. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic067.mp3" length="37798119" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic067.mp3</guid>
+			<pubDate>Tue, 12 Nov 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, mathew kumar</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 68 - Hotter Than Reality</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Is A Crate Full of Mysteries.</itunes:subtitle>
+			<itunes:summary>Untapped Kickstarter IP, 'Modern' Consoles, Game Dreamy, Game Genie and Game Aesthetics, Sony Super Robot vs. Microsoft Super Robot, Racing Games POV, Best Death Animations, Chess in a Bottle Games, Captain N The Game Master Major Motion Picture, and Actual Three-Minute Lightning Round Games You Should Never Play. Music 'Opening Credits' from Space Quest IV and 'Main Theme' from Super Mario 3D World.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic068.mp3" length="32816672" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic068.mp3</guid>
+			<pubDate>Wed, 20 Nov 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:07:12</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 69 - Big Ol' Game Burger</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Tim Rogers Hosts The Jerry Bruckheimer Michael Bay Double Funeral.</itunes:subtitle>
+			<itunes:summary>Thankful for Video Games, First Television, Batman Enough, Video Game Music Is Dead, Themed Arcade, The Heart-Liver-Kidney Game, and A Strange Lightning Round Rank The Series. Music 'Adventure' by Disasterpeace from Fez PC, 'Base Theme' from Contra NES, 'Ending Theme' from Super C NES, 'Area 3' from Operation C GB, 'Stage 1' from Contra III The Alien Wars SNES, 'Stage 4' from Contra Force NES, 'The Hard Corps Blues' from Contra Hard Corps Genesis, 'Jungle Conflict' from Contra Legacy of War PSX, 'Mission 1' from Contra Adventure, 'Stage 1' from Super Contra X NES (The Unlicensed Game), 'Fortress' from Shin Contra PS2, 'Main Theme' from Neo Contra PS2, 'Stage 1' from Contra 4 NDS, 'Boss 2' from Contra ReBirth Wii, 'Final Boss' from Hard Corps Uprising XBLA and PSN.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic069.mp3" length="41844382" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic069.mp3</guid>
+			<pubDate>Wed, 27 Nov 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:26:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 70 - Endless 100 Meter Dasher</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Trying to Make the Bleak Future a Little Bit Better.</itunes:subtitle>
+			<itunes:summary>Save Five Game Designers, Better Sequels with Less Money, 24 Hour Game, Two Kinds of People, Creative Online Insults, Restaurant from a Video Game for a Date, Unoriginal Soundtrack, Most Independent Game, Most Competent Princess, and Lightning Round Title Design - Tom Hanks Movies. Music 'Main Theme' from Cave Story PC and 'Begin', 'Home Waters (Down)', 'Stormy Seas (Down)', 'Arctic Floes (Down)', 'Maelstrom (Down)', and 'Alternative End (Unused)' from Ridiculous Fishing iOS. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic070.mp3" length="38923683" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic070.mp3</guid>
+			<pubDate>Wed, 04 Dec 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:19:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 71 - Dead Chimera</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Doesn't Wanna Be The Guy.</itunes:subtitle>
+			<itunes:summary>Single Credit Run, Video Games Future, Themed Arcade, Sick Day Video Games, Best Video Games Which Can No Longer Be Played or Acquired, Custom Soundtrack, Masocores, and Lightning Round Playing Favorites: Holiday Edition. Music 'Haunted Graveyard' from Super Ghouls 'n Ghosts SNES, 'Dream Dreams' from Christmas NiGHTS into Dreams Remixed by OCRemix User by Dale North, 'Maya Fey - Turnabout Sisters' Theme 2001' from Phoenix Wright: Ace Attorney DS Remixed by OCRemix User OA, and 'Xmas MGS Boss 4' from Merry Gear Solid 2 PC by Arthur Lee.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic071.mp3" length="35673423" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic071.mp3</guid>
+			<pubDate>Wed, 11 Dec 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:13:09</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 72 - The Longest Blink</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Broadcasting a podcast broadcast pre-recorded live from development heck.</itunes:subtitle>
+			<itunes:summary>Development Heck, Next Spinoff Zelda, Blinking Controls, PAX Diversity Lounge, Custom Soundtrack, Most Contemptuous Creators, Video Game Television Programming, and Lightning Round Themed Arcade Again Again. Music 'Lorule Overworld' and 'Lorule Field 2' from The Legend of Zelda: A Link Between Worlds for 3DS.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic072.mp3" length="35179396" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic072.mp3</guid>
+			<pubDate>Wed, 18 Dec 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:12:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 73 - Insert Credit GOTY 2013</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit ranks the best games of 2013.</itunes:subtitle>
+			<itunes:summary>Insert Credit ranks the best games of 2013. Music 'Insert Credit GOTY Serenade 2013' by Alex Jaffe.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic073.mp3" length="37619859" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic073.mp3</guid>
+			<pubDate>Thu, 26 Dec 2013 18:00:00 GMT</pubDate>
+			<itunes:duration>1:17:12</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 74 - Insert Credit Annual #2</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit discusses the best games of all time.</itunes:subtitle>
+			<itunes:summary>The second installment of an annual series wherein we determine what may be empirically be considered the Best Game of All Time. Music 'Plain Asia' from the album Arrow Rain from the game Imperishable Night, 'Mario Land Overworld Theme Remix' uploaded by YouTube user shadowmario23, and 'Stage 2' from Marble Madness for the NES.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic074.mp3" length="57028421" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic074.mp3</guid>
+			<pubDate>Thu, 09 Jan 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:57:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 75 - Simply Impossiblag</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit would win in a fight against Past, Present, and Future.</itunes:subtitle>
+			<itunes:summary>Easily Fixable Game Ruiners, No More Localization, Best to Worst, Three Laws of Video Games, Favorite Stage One Boss, Themed Arcade, Cover Stories for a Video Game Celebrity Magazine, and Lightning Round Title Design. Music 'Boss 3' and 'Stage 4' from Gunhouse. Gunhouse is available now for PS Vita and PlayStation Mobile!</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic075.mp3" length="38239693" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic075.mp3</guid>
+			<pubDate>Thu, 16 Jan 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:18:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 76 - Iceberg Podcast</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is the Opposite of Cool Spot (That's a good thing, trust us).</itunes:subtitle>
+			<itunes:summary>Disparate Worlds Tactics, The Series for WayForward, Dreamcast VMU, Accidental Greatness, Surprises in Games, Edutainment, and Lightning Round Opposite Day. Music 'In The Mountain' by Yuzo Koshiro from Stickman Is Back Genesis, 'Title Theme' from Forever Kingdom (Evergrace 2), 'Wild Child &amp; Manmos' by Yasuyuki Suzuki and Emiko Suganuma from Tail of the Sun PSX, and nearly the entire Frog Fractions Soundtrack by Twinbeard.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic076.mp3" length="41167706" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic076.mp3</guid>
+			<pubDate>Thu, 30 Jan 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:24:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, jim crawford</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 77 - The Crybox</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Celebra las Consolas de los Muertos.</itunes:subtitle>
+			<itunes:summary>Brandon at D.I.C.E., Save Nintendo, Successful Breaks Out of the Comfort Zone, Mobile Birds, Fictional Vehicles, Video Game Holidays, Good Castlevanias, Nullify One Trademark, Copyright, or Patent, Smash Mouth's All Star of VGM, and Lightning Round Best to Worst. Music 'Terra's Theme' from Final Fantasy VI Performed by YouTube User DSCAccount and 'Lonely Rolling Star' from Noby Noby Boy.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic077.mp3" length="36112907" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic077.mp3</guid>
+			<pubDate>Thu, 06 Feb 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:14:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, adam rippon</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 78 - Hot Tunes and Cool Chooms</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Has Zoop and It's Jaffe's Fault.</itunes:subtitle>
+			<itunes:summary>Great Ideas Already Done, Irrational Games, Twitch Plays Pokemon, Monthly Video Game Comic Books, Most Back-Handed Compliment, Your Video Game Boss, and Lightning Round Bottom Line Review Arcade Edition, Lightning 2 Who Would Win in a Fight, and Lightning Returns Returns Elevator Pitch Co-Op Edition. Music 'The Ego Room' from Remember Me and the Zoop Soundtrack.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic078.mp3" length="34830392" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic078.mp3</guid>
+			<pubDate>Thu, 20 Feb 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:11:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 79 - Weird Ninja Turtles Fan Fiction</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit is Both the Sin and Punishment.</itunes:subtitle>
+			<itunes:summary>Less Blank and More Blank, Most Fun Projectile Catching, Custom Soundtrack, Video Game Olympic Representatives, Improv Zone, Most Unpleasant Console Game to Work On, Personalities to Create a Game, Microtransactions in Nintendo Games, Willy Wonka and the Video Game Factory, and Lightning Round Rank the Devil May Cry Games. Music 'Beach Stage' from Flying Power Disc - Windjammers for the Neo Geo and 'Monday (Glitch Mob Remix)' by Nalepa from the DmC Devil May Cry Trailer.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic079.mp3" length="41420216" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic079.mp3</guid>
+			<pubDate>Thu, 27 Feb 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:25:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 80 - No More Cheeroes</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Has Got That Bad'un.</itunes:subtitle>
+			<itunes:summary>Good Postmortem Discussion, Chronotrigger Recruiting, Largest Critical Blindspot, Akira Toriyama Dragon Quest, Taking Smartphones Seriously, Themed Arcade, Design a Non-Violent Video Game Using the Doom IP, How to Become a Better Level Designer, Redesign a Video Game Character, and The Crichtoning Round. Music 'Sonic Boom' from Sonic CD, 'Victory Fanfare' from Final Fantasy VI and 'Level 1' From Jurassic Park for the NES.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic080.mp3" length="41802872" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic080.mp3</guid>
+			<pubDate>Thu, 06 Mar 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:25:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 81 - BCGOAT</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Determines the Best Competitive Game of All Time.</itunes:subtitle>
+			<itunes:summary>Insert Credit Determines the Best Competitive Game of All Time. Music 'Rainbow Road' from Mario Kart 7 Performed by YouTube User DSCAccount.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic081.mp3" length="43478841" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic081.mp3</guid>
+			<pubDate>Thu, 13 Mar 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>1:29:25</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, robert meyer</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 19 - Interactacular</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Heart-to-Heart.</itunes:subtitle>
+			<itunes:summary>Mothers, Neck Tattoos, Rugrats The Movie of Video Games, First Game Boner, Seanbaby vs. Yahtzee, Custom Soundtrack Idolmaster, Miley Cyrus Game, Improv Zone, and Lightning Round Bottom Line Review. Music 'Tristram Village' from Diablo I and II, 'Level 1 Theme' from Marble Madness, and 'Backyard' from Rugrats Search for Reptar.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic019.mp3" length="27374265" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic019.mp3</guid>
+			<pubDate>Tue, 25 Mar 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>00:55:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 82 - Did I Say Gogo?</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Knows Nobody Cares About Robin.</itunes:subtitle>
+			<itunes:summary>Saving Video Game History with Frank and Brandon, GDC Recap, Best 3D Single Player Hand-to-Hand Combat, FFVI - Name All Party Members and Add a Fifteenth, Games Other Than Dark Souls 2, Lowest Percentage Completion Single Player Game, Restaurant Staffed by Video Game Professionals, Worst and Most-Listened-To Song in a Video Game, Did Facebook and Oculus End the Kickstarter Dream?, and Lightning Round Game Rater. Music 'Ape Escape Theme' Ape Escape for the PlayStation Move (Japanese Version), 'Victory Fanfare' from Final Fantasy VI, 'Bubble Bobble Theme' from Bubble Bobble Covered by Lara de Wit.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic082.mp3" length="35922489" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic082.mp3</guid>
+			<pubDate>Thu, 03 Apr 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:13:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 83 - Content Video Game Nerd</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Is The Prequel to Die Hard.</itunes:subtitle>
+			<itunes:summary>PAX, Best Debut Games, Why Was the Halo Composer Fired from Bungie?, Game Most Interesting to Lose, Most Dreamy Games, Do You Fight for Fun or for Glory?, Six Universal Emotions, Can Someone Please Explain Goat Simulator?, Favorite Game Makers (It's Spelled ulillillia), and Lightning Round Title Design Tim McGraw Games. Music 'Trailer Soundtrack' and 'Main Theme' from Goat Simulator.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic083.mp3" length="42691065" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic083.mp3</guid>
+			<pubDate>Thu, 17 Apr 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:27:46</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, mathew kumar</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 84 - Cat Physics</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Who Are You Callin' a Flappy Bird?</itunes:subtitle>
+			<itunes:summary>Exclusivity Harm, Design the Godzilla Tie-In Game, Title Insults, Should FPS or Shmup Games Be Called 'Shooters', Underutilized Real World Physics, Psychiatrist Games, New God Game Concepts, Video Games as Rewards, Smart Bad Video Games, and Lightning Round Team Battle. Music 'Swear' from Mr. Driller, 'Main Theme' from From Dust, and 'Level 1 Theme' from Marble Madness.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic084.mp3" length="34611129" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic084.mp3</guid>
+			<pubDate>Thu, 24 Apr 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:10:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 85 - Beyond Good Souls</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>One Quarter Broadcast On Location from a Miniature Golf Course.</itunes:subtitle>
+			<itunes:summary>Video Game Legends, Console Buying Games Old and New, Motorcycle Gang, Best Fashion Game Developer, How To Ensure Zero Sales of a Game, Which Games Have Changed Design for the Better, Most Radically Redefined Public Image, Video Game DJ, Mock Market, and Lightning Round Best To Worst. Music 'Bonus Level' from Cool Spot and 'Living in the City (Instrumental Version)' from Sonic R.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic085.mp3" length="36193017" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic085.mp3</guid>
+			<pubDate>Thu, 01 May 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:14:13</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 86 - World of Yourcraft</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Eighty-Sixing.</itunes:subtitle>
+			<itunes:summary>Year of Luigi, Most Impressive Minecrafts, Oculus-Facebook Billion Person MMO, Failed Peripherals, Custom Soundtrack  - Candy Crush Saga, Avengers License, Fastest Video Game Ever Made, The Arcade Transition, Describe to Your Mom - Takeshi's Challenge and Lightning Round Team Battle -  Gauntlet. Music 'Executor' from Space Invaders Extreme DS, '8-Bit Chicken Dance' by Newgrounds User Fineas, 'The Fastest Thing Alive Fan Full Version' Remixed by YouTube User kapacitado, and 'Congo Jungle Stage' from Super Smash Bros.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic086.mp3" length="38133177" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic086.mp3</guid>
+			<pubDate>Thu, 08 May 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:18:16</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, michael kerwin</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 87 - Mario is Dead</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Now Featuring Brandon Sheffield.</itunes:subtitle>
+			<itunes:summary>Better with No Friends, Genres that are Dead, Console War Crimes, Games You Hate, Childhood is Dead, Mario is Dead, Flappy Bird Re-Release, Nintendo Wi-Fi is Dead, the Kabbalah of Video Games. Music 'Wily's Castle (Recreation) - Super Smash Bros. for Nintendo 3DS and Wii U Music Extended' Recreated by YouTube user BrawlBRSTMs3.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic087.mp3" length="34791993" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic087.mp3</guid>
+			<pubDate>Thu, 22 May 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:11:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 88 - Arctic Blast</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>One of Those Skullguys.</itunes:subtitle>
+			<itunes:summary>Best Sega Games Outside of the Genesis Library, Kanto Careers, Best Crowd, Xbox One and PS4 Revisited, Personal Robot Maid, Fighting Game Directors, Cool Cartoons, and Lightning Round Design an Original Skull Girl. Music 'Lament' and 'Maplecrest Stage' from Skullgirls and '8-Bit Chicken Dance' by Newgrounds User Fineas.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic088.mp3" length="26918457" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic088.mp3</guid>
+			<pubDate>Thu, 29 May 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>00:54:54</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, jonathan persona kim</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 89 - Bon Appetit</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Who Crotches the Crotchmen?</itunes:subtitle>
+			<itunes:summary>Frank Recap, Make E3 Less Boring, A Line in a Game Movie, Worst Levels, Alternate History Games, Greatest Failings of Game Engines, Alien Developers, Misunderstanding Sequels, Improv Zone Minor League Gaming, and Lightning Round Hyper-Specific Japanese Genres. Music 'Race Around the World' from Castle Crashers, 'Labyrinth Zone' and 'Marble Zone' from Sonic 1, 'Aiden Pearce (Main Theme)' from Watch Dogs, and 'Aban Hawkins Theme' from Aban Hawkins and the 1000 Spikes.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic089.mp3" length="36274809" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic089.mp3</guid>
+			<pubDate>Thu, 05 Jun 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:14:24</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 90 - Six or Seven Minutes</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Frown Inversion.</itunes:subtitle>
+			<itunes:summary>Insert Credit Ranks the Games of E3 2014. Music 'Casino Calavera' from Grim Fandango.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic090.mp3" length="39480057" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic090.mp3</guid>
+			<pubDate>Thu, 19 Jun 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:21:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 91 - Flip the Bard</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Spins those Nordic Tracks.</itunes:subtitle>
+			<itunes:summary>Steam Sale 2015, Third Place Game Dev, Death by Impact, Get Hit to Win, Friends Preferences, Most Lost, Custom Soundtrack Far Cry 4 Edition, Assassin's Creed Series Assassinated and Lightning Round Title Design - Decepticons. Music 'Tuffy Theme' from Tuffy the Corgi and the Tower of Bones, 'Vast Plain Grasslands (Day)' from Wario Land 3, and '8-Bit Chicken Dance' by Newgrounds User Fineas. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic091.mp3" length="36010813" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic091.mp3</guid>
+			<pubDate>Thu, 26 Jun 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:13:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 92 - Podcastiversary II - Substance</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>We Probably Won't But We Might.</itunes:subtitle>
+			<itunes:summary>Next Fad After Zombies, Prison Games, Ideal Roommate, Is the PS Vita Worth Buying Yet?, Pinball, Best Dog, Hideo Kojima vs. Peter Molyneux, Improv Zone, Citizen Kane of Video Games and Lightning Round Title Design - Video Games Based on Titles of Episodes of this Very Podcast Edition. Music 'Tetris The Movie' by YouTube user Plasma3Music Remixes and '4 Minutes Before Death ~ Variation' from Ghost Trick Phantom Detective.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic092.mp3" length="36328185" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic092.mp3</guid>
+			<pubDate>Thu, 03 Jul 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:14:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 93 - Multivarious Ravioli</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit discusses Evo with guest Patrick Miller.</itunes:subtitle>
+			<itunes:summary>Personal Highlight of Evo, Evo Trading Cards, Tier System, Low Tier Tournaments, More Representation, Girl Characters, Creative Evo Prizes, PlayStation One Controller, Predictions for Evo 2015, and Lightning Round Bottom Line Review. Music 'The Next Door' From Super Street Fighter IV and 'Reach Out To The Truth' from Persona 4 Arena.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic093.mp3" length="36689145" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic093.mp3</guid>
+			<pubDate>Thu, 17 Jul 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:15:15</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, alex jaffe, frank cifaldi, tim rogers, brandon sheffield, patrick miller</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 94 - Episode Ninety-Five</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Explores the Heart of Dogness.</itunes:subtitle>
+			<itunes:summary>Single Adjective Titles, Stupider than Watch Dogs, 30 FPS Preferrers, This Week in Video Game News, Best Game with the Word Dog in the Title, Modern Celebrity Video Game, Wikipedia List of Video Games Considered the Best Part One. Music 'Strike the Earth!' From Shovel Knight and 'Attagirl' from OneChanbara.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic094.mp3" length="31528497" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic094.mp3</guid>
+			<pubDate>Thu, 07 Aug 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:04:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 95 - Episode Nineteen Ninety-Four</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Ranks the Games of 1994.</itunes:subtitle>
+			<itunes:summary>Insert Credit Ranks the Games of 1994. Music 'Final Battle' from Sparkster.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic095.mp3" length="56733297" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic095.mp3</guid>
+			<pubDate>Thu, 14 Aug 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:57:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 96 - Two Darn Fish Playin' Street Fighter</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Drives into an Open Grave.</itunes:subtitle>
+			<itunes:summary>Swing Copters, Design a Vertical Scrolling iOS Game, Subverting the Game World, Night Trap Kickstarter, Games of 1996, IQ Test - Unknown Developers, and Wikipedia List of Video Games Considered the Best Part Two. Music 'Map Theme (ElecV 100bpm Remix)' by YouTube User ElecV Voom based on Gargoyle's Quest and 'Town Theme' from Wild Arms.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic096.mp3" length="37703409" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic096.mp3</guid>
+			<pubDate>Thu, 21 Aug 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:17:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 97 - Crazy Taxi Arrow</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Frank is in Portland and Dead. Special Guest Christian Nutt.</itunes:subtitle>
+			<itunes:summary>Weekly Update, The Engagement Line, Favorite 1989 Console, and Games of 1997. Music 'Theme of Nana' from Asuka 120% Limited.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic097.mp3" length="39452337" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic097.mp3</guid>
+			<pubDate>Fri, 05 Sep 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:21:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, christian nutt</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 98 - Delightfully Dead</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Nobody Gets Laid in Middle Earth. Special Guest Vito Gesualdi.</itunes:subtitle>
+			<itunes:summary>This Week in Video Games, Shadows, Stealth Kiss, N64 Games, Convince Frank to Play Destiny, Games of 1998. Music 'Rusty Bucket Bay' from Banjo-Kazooie Performed by YouTube User DSCAccount.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic098.mp3" length="29616945" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic098.mp3</guid>
+			<pubDate>Thu, 02 Oct 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:00:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, vito gesualdi</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 99 - Nephulous Cliche</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Final Fantasy Ruined Everything.</itunes:subtitle>
+			<itunes:summary>PSX RPGs, Favorite Secrets, Things That Should've Been in the Game, Who's That Polygon?, Games of 1999, Balance Exploration and Shooting. Music 'Super Smash Bros. for 3DS and Wii U - E3 2013 Theme (Recreated)' by YouTube User GuardianSoul. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic099.mp3" length="32941617" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic099.mp3</guid>
+			<pubDate>Fri, 24 Oct 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:07:44</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 100 - Sonic Tuesday</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Celebrate Episode 100 With Contending Sports Persons Frank Cifaldi, Brandon Sheffield, and Tim Rogers.</itunes:subtitle>
+			<itunes:summary>Save the Sega Saturn, Sonic Tuesday, Reversing the Devaluation of Classic Games, Best 2D Controller, and Lightning 100. Music 'Chrono Trigger Main Theme Acapella' by YouTube user Smooth McGroove and 'Sonic Remix MegaMix Vol. 1' by YouTube user Plasma3Music Remixes. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic100.mp3" length="40491633" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic100.mp3</guid>
+			<pubDate>Tue, 25 Nov 2014 18:00:00 GMT</pubDate>
+			<itunes:duration>01:23:28</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 102 - Who Suzuki?</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Don't ask me about the Insert Credit numbering scheme. -Blaine</itunes:subtitle>
+			<itunes:summary>Best Meal at E3, Shenmue 3 Kickstarter, Pseudo 3D Driving, Game Social Darwinism, PriceCharting.com circa 2012, Cheap Good Bad Games, Beverages in Japan, Low Score Boy, and Shockingly Good Looking Saturn Games. Music 'Replay' from Virtua Racing Deluxe for the 32x. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic102.mp3" length="40426353" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic102.mp3</guid>
+			<pubDate>Wed, 22 Jul 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:23:20</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 103 - Muffin Monster</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Join the ThinkForce today!</itunes:subtitle>
+			<itunes:summary>Costume Changes, Satoru Iwata's Fake Death, Talking Heads Stop Making Sense The Motion Picture Soundtrack The Video Game, Water Bottles and Sunny D, Firefighting and Concept Games, Looks Alone, Airport Levels, and Film Licenses: Mad Max Edition. Music 'Main Theme' from Mighty No. 9. </itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic103.mp3" length="31227633" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic103.mp3</guid>
+			<pubDate>Thu, 30 Jul 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:04:10</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 104 - One Button StarCraft</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>The Bigger the Trouble the Littler the China.</itunes:subtitle>
+			<itunes:summary>Games for Girls, Pachinko, Enjoyable Punishment Mechanics, PlayStation US Launch Anniversary, and Speedruns. Music 'Idol' from Ane-San for the PC Engine.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic104.mp3" length="32397105" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic104.mp3</guid>
+			<pubDate>Thu, 06 Aug 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:06:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 105 - Inappropriate Implementation of Organ Music</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Separates the Rubes from the Iks Cubes.</itunes:subtitle>
+			<itunes:summary>Console Startup Sounds and Soundlogos, What Are You Playin'?, What Are You Buyin'?, Nicholas Cage Saves the President's Doughrter, and Level Rush. Music 'Track 2' from Die Hard Arcade for the Sega Saturn.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic105.mp3" length="31428657" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic105.mp3</guid>
+			<pubDate>Wed, 12 Aug 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:04:35</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 106 - Fat Guy to That Guy</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Mario Sandwich Maker with Mathew Kumar.</itunes:subtitle>
+			<itunes:summary>Eat Fresh, Sandwich Video Games, Brand Identity, Wahoo Maker, and Dragon Quest XI. Music 'Pepsiman Theme Song' from Pepsiman for the PlayStation.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic106.mp3" length="41004081" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic106.mp3</guid>
+			<pubDate>Wed, 19 Aug 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:24:32</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton, mathew kumar</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 107 - The Truth About Stacy</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Babysitting with Guest Host Ian Adams.</itunes:subtitle>
+			<itunes:summary>Mario vs. Mario, Free to Pay Aesthetics, Steam Discovery, FREE VIDEOBALL CODES, What's the Point of Consoles?, and Lightning Round Baby-Sitters Club. Music 'Jeffrey Theme' from Virtua Fighter Arcade and 'Battle Theme 3' from Rising Thunder.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic107.mp3" length="24666993" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic107.mp3</guid>
+			<pubDate>Wed, 26 Aug 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>00:50:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield, joel hamilton, ian adams</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 108 - 108</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Intentionally mellow and unintentionally staticy memories and introspection.</itunes:subtitle>
+			<itunes:summary>Internet Handles, Lost Levels, Insert Credit, Meeting Developers.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic108.mp3" length="42243633" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic108.mp3</guid>
+			<pubDate>Wed, 02 Sep 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:27:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 109 - Part I - Insert Credit Abroad</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Recorded on the streets and in the buildings of Japan. Part one.</itunes:subtitle>
+			<itunes:summary>How to poop in Japan.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic109a.mp3" length="23496960" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic109a.mp3</guid>
+			<pubDate>Sat, 19 Sep 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>00:48:57</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 109 - Part II - Insert Credit Abroader</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Recorded on the streets and in the buildings of Japan. Part two.</itunes:subtitle>
+			<itunes:summary>TGS and Japan game haul.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic109b.mp3" length="40104960" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic109b.mp3</guid>
+			<pubDate>Sun, 20 Sep 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:23:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 110 - History</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Recorded in Korea, England, and America.</itunes:subtitle>
+			<itunes:summary>The final installment of Insert Credit Abroad.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic110.mp3" length="44449713" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic110.mp3</guid>
+			<pubDate>Wed, 23 Sep 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:31:43</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 111 - The Show with the Nost Algia</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>A look back on looking back with Insert Credit.</itunes:subtitle>
+			<itunes:summary>Why Collect?, Video Game Imagination Play, Past Games vs. Present Games, and Future Nostalgia. Music 'Ilberns Ruins' from Ys III Wanderers from Ys for the PC Engine.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic111.mp3" length="32601393" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic111.mp3</guid>
+			<pubDate>Wed, 30 Sep 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:07:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 112 - The Future with Pixels</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Join Showboys and Showbabies in this Frank Episode of Insert Credit.</itunes:subtitle>
+			<itunes:summary>What Do People Like About Retro Games?, Undertale, and Top 10 List of Games Developers Should Play. Music 'Spear of Justice' and 'Dogsong' from Undertale for the PC.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic112.mp3" length="47351025" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic112.mp3</guid>
+			<pubDate>Wed, 14 Oct 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:37:46</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 113 Bonus - Jokes in the Dark</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>This bonus excerpt is from the intial attempt at #113 before Everything Went Wrong(tm).</itunes:subtitle>
+			<itunes:summary>This bonus excerpt is from the intial attempt at #113 before Everything Went Wrong(tm). Music 'Stage 3 Remix' from Sunset Riders for the SNES remixed by YouTube user MOD.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic113bonus.mp3" length="10829553" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic113bonus.mp3</guid>
+			<pubDate>Wed, 21 Oct 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>00:21:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 113 - Vertilidrome</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>On Unlucky #113 Insert Credit discusses fashion in video games.</itunes:subtitle>
+			<itunes:summary>Best Fashion in Video Games. Music 'Spread the Wings Remix' from Fatal Fury: Mark of the Wolves remixed by YouTube user RBGasp.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic113.mp3" length="40644465" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic113.mp3</guid>
+			<pubDate>Wed, 28 Oct 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:23:47</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 114 - Indie Mega Truth</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Well, babies, you've fallen into a whale. It's up to Insert Credit to get you out.</itunes:subtitle>
+			<itunes:summary>Game marketing for cool guys. Music 'Uroboros' by Eirik Suhrke from the game soundtrack to Downwell.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic114.mp3" length="33121137" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic114.mp3</guid>
+			<pubDate>Wed, 11 Nov 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:08:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 115 - Big Weird Box</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Any aspect ratio is incorrect for Bubsy.</itunes:subtitle>
+			<itunes:summary>Tetris Movie, Nintendo Badge Arcade, Bubsy Twofer, Birthday Mania, Mother 3 Republished, Tim's Thoughts on Dragon Quest, Posthumous Physical Product Releases, Activision Acquires King. Music 'Power to Progress' by Darren and Steven Loveday from the Life is Strange Soundtrack.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic115.mp3" length="34841649" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic115.mp3</guid>
+			<pubDate>Wed, 18 Nov 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:11:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 116 - Star Lord of the Matrix</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Brandon and Frank haven't seen any movies.</itunes:subtitle>
+			<itunes:summary>Trilogies and Series. Music 'Tetris Guitar Medley' by YouTube user DSC.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic116.mp3" length="30343473" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic116.mp3</guid>
+			<pubDate>Thu, 10 Dec 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:02:20</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 117 - OVVNIIID</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Decompose in Real Time.</itunes:subtitle>
+			<itunes:summary>Thrillogies, Longest Session, Longest Completion, Most Combined Hours, Cathedrals, Change, Spoilers. Music 'Quiet's Theme Guitar Cover' From Metal Gear Solid V The Phantom Pain performed by YouTube user DSC.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic117.mp3" length="44123505" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic117.mp3</guid>
+			<pubDate>Wed, 16 Dec 2015 18:00:00 GMT</pubDate>
+			<itunes:duration>01:31:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 118 - Potentially Mythical</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>A Non-Bonkers Cat Cop.</itunes:subtitle>
+			<itunes:summary>Preferred Languages, Foreign Story, Discoverable Secrets, Deliberately Hidden Information vs. Implied Unprovided Information, and Dragon Quest. Music 'Taking on the Shagohod Guitar Cover' From Metal Gear Solid 3 performed by YouTube user DSC.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic118.mp3" length="44119089" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic118.mp3</guid>
+			<pubDate>Sat, 02 Jan 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:31:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 119 - That's No Uppercut</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Personally, I call it a Star Punch.</itunes:subtitle>
+			<itunes:summary>Thoughts on the term 'Gamer.' Music 'Main Theme' From Punch-Out!! Wii.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic119.mp3" length="31838769" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic119.mp3</guid>
+			<pubDate>Sat, 16 Jan 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:05:27</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 120 - Black Label Jonathan Blow</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>'I'd pay hundreds if I was assured it'd be a great experience.' -Nicholas Wasilewski, Action Button Entertainment Programmer</itunes:subtitle>
+			<itunes:summary>The Witness, $100 Video Game, Most Paid for a Game, Greatest Resell Value Games, RAD Lifetime Spending. Music 'The Witness Release Date Trailer' From The Witness.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic120.mp3" length="32554161" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic120.mp3</guid>
+			<pubDate>Wed, 20 Jan 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:06:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 121 - 250 Million Dollars Worth of Death</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Video games, but who cares?</itunes:subtitle>
+			<itunes:summary>Writing, Voice, Grasping for Words, Reading Influences, Starting with a Point or a Feeling, Worst Writing, Liking Your Own Writing, and Forgiving Bad Writers. Music 'Courtroom Lobby First Prelude' From Phoenix Wright: Ace Attorney.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic121.mp3" length="42664689" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic121.mp3</guid>
+			<pubDate>Wed, 03 Feb 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:28:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 122 - The Knife that Cuts the World</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Are you a paragon? Or are you a maverick?</itunes:subtitle>
+			<itunes:summary>Silent Observer, Forced Participation, Multitasking Forced Participation, Heavily Scripted Cinematic, Text Dense Approach, Pure Abstraction, Make Your Own (Emergent Narrative), Narrative Tree, and Voice of God. Music 'Heartache' From Undertale.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic122.mp3" length="44254065" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic122.mp3</guid>
+			<pubDate>Sat, 13 Feb 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:31:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 123 - Part-Time Un-American Monster</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>In this episode a fruitless conversation will ensue.</itunes:subtitle>
+			<itunes:summary>Real Life NPCs, Worst Licensed Beat 'Em Up Possible, Video Game Reactions, Arbitrary Constraints, and Heat: The Video Game. Music 'Duck Hunt Remix Collab 01 - M.V.F.L.G.' by YouTube User Tellee Kinetic.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic123.mp3" length="33767793" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic123.mp3</guid>
+			<pubDate>Wed, 24 Feb 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:09:28</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 124 - SD Remix</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Announces 'The Face Phone.' Changing the World One Face at a Time.</itunes:subtitle>
+			<itunes:summary>Coleco Chameleon, Insert Credit Console, Nintendo NX, Spintires, Hacking Your Own Game, Caravan Mode, Cool Modes in Video Games, Best Video Game Remixes, Doom. Music 'Brutal Doom Trailer Theme' by Andrew Hulshult.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic124.mp3" length="35877873" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic124.mp3</guid>
+			<pubDate>Sat, 5 Mar 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:13:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 125 - Free Lap Dances for Devs</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Insert Credit Is Stuck in a Room Full of Holes.</itunes:subtitle>
+			<itunes:summary>That Let's Play Cancer, 3D Printing Steam Controllers, Fake NX Controller, Favorite Easter Eggs, GTA Deer Cam, Xbox Wins Gross GDC Party Award, and Firewatch Copycats. Music 'Everything vs Everything' from MUGEN.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic125.mp3" length="33160113" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic125.mp3</guid>
+			<pubDate>Sun, 27 Mar 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:13:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 126 - The Longer Con</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Dip yourself into Insert Credit.</itunes:subtitle>
+			<itunes:summary>Insert Credit talks memories and conventions. Music 'Heart of Fire' From Castlevania: Harmony of Despair.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic126.mp3" length="36430065" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic126.mp3</guid>
+			<pubDate>Mon, 18 Apr 2016 18:00:00 GMT</pubDate>
+			<itunes:duration>01:15:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 127 - Is the Switch the Ideal Console?</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Fruit is vegetables for idiots.</itunes:subtitle>
+			<itunes:summary>Insert Credit answers your questions! Figuring out a guaranteed ROI, Movie Games, and reviewing the Nintendo Switch. Music 'Gruen' From Bulk Slash.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic127.mp3" length="41538033" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic127.mp3</guid>
+			<pubDate>Fri, 10 Mar 2017 18:00:00 GMT</pubDate>
+			<itunes:duration>01:25:39</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+		<item>
+			<title>Ep. 128 - If the Shoe Fits, Be a Clown</title>
+			<itunes:author>Insert Credit</itunes:author>
+			<itunes:subtitle>Getting Breath of the Riled in here.</itunes:subtitle>
+			<itunes:summary>Sharing games with your friends can be fun, OR IT CAN BE ILLEGAL!!!! Music 'Very No' From Ane-san.</itunes:summary>
+			<itunes:image href="https://archive.org/download/insertcredit/insertcredit.jpg"/>
+			<enclosure url="https://archive.org/download/insertcredit/ic128.mp3" length="37867008" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic128.mp3</guid>
+			<pubDate>Tue, 28 Mar 2017 18:00:00 GMT</pubDate>
+			<itunes:duration>01:18:53</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>video games, insert credit, frank cifaldi, tim rogers, brandon sheffield</itunes:keywords>
+		</item>
+	</channel>
+</rss>

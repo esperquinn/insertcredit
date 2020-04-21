@@ -1,0 +1,146 @@
+body {font-family: sans-serif;margin: 0;background-color: #111;color: white;font-size: 80%;}
+body #page {line-height: 1.5em;}
+header, nav, footer, article, section, aside {display: block;}
+h1, h2, h3, h4, h5, h6 {font-family: "Andale Mono","AndaleMonoRegular",monospaced;font-weight: normal;}
+h1 {line-height: 1.2em;}
+a {color: #97a;text-decoration: none;}
+a:hover, a:focus {color: #a8b;}
+a:active {color: #ebf;}
+footer {border-top: 2px solid white;}
+.cycle > * {-webkit-transition: opacity .25s linear;}
+.cycle .cycle-show {opacity: 1;z-index: 20;}
+.cycle .cycle-hide {opacity: 0;z-index: 10;}
+#site-title {text-transform: lowercase;border-bottom: 2px solid white;font-size: 32px;font-weight: normal;line-height: 1em;overflow: hidden;height: 30px;margin-bottom: 0;position: relative;}
+#site-title span {position: absolute;bottom: 0px;left: 0;margin: 0;padding: 0;display: block;line-height: 20px;}
+#site-title a {color: white;text-decoration: none;height: 32px;}
+body.platform-ios #site-title span {bottom: -2px;}
+#access {font-family: "Andale Mono","AndaleMonoRegular",monospaced;font-weight: normal;background-color: #111;color: white;}
+#branding {display: block;position: relative;}
+#branding.no-banner {padding-bottom: 3em;}
+#menu-main-container, #menu-main-menu-container {}
+#menu-main, #menu-main-menu, #access ul {position: absolute;top: 0;right: 0;}
+#main {clear: both;}
+#branding #strip {max-height: 240px;overflow: hidden;border-bottom: 2px solid white;line-height: 0em;}
+#branding #strip img {width: 100%;}
+#banner-quote {font-family: "Andale Mono","AndaleMonoRegular",monospaced;font-weight: normal;text-align: center;font-size: 1.5em;margin: 1em 0 2em 0;color: white;}
+#banner-quote .quote-symbols {font-family: sans-serif;letter-spacing: .5em;color: #657;}
+#featured-posts {width: 100%;}
+#featured-posts ol {padding: 0;margin: 0;list-style: none;display: block;}
+#featured-posts ol li {display: block;width: 100%;margin-bottom: 1em;}
+#featured-posts ol a {display: block;color: white;text-shadow: 1px 1px 2px black,1px 1px 5px black;position: relative;line-height: 0px;}
+#featured-posts ol a img {width: 100%;}
+#featured-posts a .overlay {position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;background: url("scanlines3a.png") repeat top left;z-index: 20;}
+#featured-posts ol a .featured-post-title {position: absolute;top: 0px;left: 0px;width: 95%;margin: 0;z-index: 21;line-height: 1em;}
+#featured-posts ol a .featured-post-quote {position: absolute;bottom: 0px;right: 0px;width: 95%;font-size: 1.5em;line-height: 1em;font-family: sans-serif;font-style: italic;margin: 0;text-align: right;z-index: 21;}
+#featured-posts ol a .featured-post-title span, #featured-posts ol a .featured-post-quote span {padding: 5px;background: rgba(0,0,0,.5);display: inline-block;}
+#featured-posts ol a:hover .featured-post-title span, #featured-posts ol a:hover .featured-post-quote span, #featured-posts ol a:focus .featured-post-title span, #featured-posts ol a:focus .featured-post-quote span {background: rgba(255,255,255,.5);}
+#featured-posts a:hover .overlay, #featured-posts a:focus .overlay {background: url("scanlines3b.png") repeat top left;box-shadow: inset 0px 0px 20px rgba(255,255,255,.5),inset 0px 0px 50px #97a;-moz-box-shadow: inset 0px 0px 20px rgba(255,255,255,.5),inset 0px 0px 50px #97a;-webkit-box-shadow: inset 0px 0px 20px rgba(255,255,255,.5),inset 0px 0px 50px #97a;-o-box-shadow: inset 0px 0px 20px rgba(255,255,255,.5),inset 0px 0px 50px #97a;-ms-box-shadow: inset 0px 0px 20px rgba(255,255,255,.5),inset 0px 0px 50px #97a;}
+#searchform {position: absolute;clear: both;right: 10px;top: 40px;}
+#searchform input#s {width: 200px;padding: 3px 6px;border-width: 1px;border: 1px solid #203;margin-right: 0;border-radius: 5px;-webkit-border-radius: 5px;-moz-border-radius: 5px;-o-border-radius: 5px;-ms-border-radius: 5px;}
+#searchform {opacity: .5;}
+#searchform.focused {opacity: 1;}
+#content-home {margin: 0 auto;}
+#content-home #features {width: 30%;float: right;}
+#content-home #news {width: 65%;float: left;margin: 0 5% 0 0;}
+#content-home #news .post header, .single #content header {display: block;clear: both;background: #213;padding: 5px;overflow: hidden;margin: 0 0 .5em 0;border: 1px solid black;}
+.single #content header h1 {margin: 0px;float: left;}
+.single #content header {margin-bottom: 2em;}
+#content-home #news .post header h2 {float: left;margin: 0;}
+#content-home #news .post header p, .single #content header p {float: right;margin: 0;}
+#content-home #news .post header a {color: white;}
+#content {margin: 0px auto;width: 960px;}
+#content-home h2, #content h2 {margin-top: 0;}
+.post {margin: 0 0 1.5em 0;clear: both;overflow: hidden;}
+.entry-content {width: 100%;}
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {clear: both;}
+.post nav.chapters {margin: 1em 0;}
+.entry-meta {padding: 5px 0;}
+.wp-caption {padding: 0;}
+.wp-caption.alignleft {margin: 0 10px 10px 0;}
+.wp-caption a {display: block;padding: 0;margin: 0;}
+.wp-caption img {margin: 0;}
+.wp-caption .wp-caption-text {background-color: #222;margin: 0;}
+.post .notice, .error404 #searchform {background: none;padding: 0;}
+#nav-below {margin: 1em 0;min-height: 1.5em;}
+#nav-below .nav-previous, #nav-below .nav-next {width: 50%;float: left;}
+#nav-below .nav-next {text-align: right;}
+#features img {width: 100%;}
+.toggleable {margin: 1em 0;}
+.toggleable .toggleable-target, .ui-accordion-header {cursor: pointer;margin: 0;font-family: "Andale Mono","AndaleMonoRegular",monospaced;font-weight: normal;white-space: normal;}
+.toggleable .toggleable-target:before, .ui-accordion-header:before {content: "+ ";color: #97a;}
+.toggleable.toggleable-open .toggleable-target:before, .ui-accordion-header.ui-state-active:before {content: "- ";}
+.ui-accordion-header {margin: 1em 0 .5em 0;outline: 0px none;}
+#comments {padding: 0px .6em 0px 1.2em;}
+#commentform input[type="text"], #commentform textarea {width: 100%;}
+.entry-paginator.toggleable {margin: 0;}
+.entry-paginator h3 {margin: 0;padding: 5px 0;}
+.entry-paginator ul {padding: 0 0 0 1.4em;}
+.entry-paginator li {white-space: nowrap;}
+.entry-paginator li a {-o-text-overflow: ellipsis;text-overflow: ellipsis;}
+footer#archive-list ul {list-style: none;margin: 1em 0;padding: 0;}
+footer#archive-list li {padding: 0;margin: 0 1em 0 0;display: inline-block;}
+.entry-paginator {display: block;padding: 5px;margin-left: -5px;}
+.entry-paginator > div {margin: 0;}
+.paginator-float {background: #111;}
+#meta a, #searchsubmit, .edit-link a {display: inline-block;padding: 2px 6px;background: url("buttongrad.png") #97a repeat-x center center;border: 1px solid #203;color: white;border-radius: 5px;-webkit-border-radius: 5px;-moz-border-radius: 5px;-o-border-radius: 5px;-ms-border-radius: 5px;text-shadow: 0px 0px 2px black;box-shadow: inset 0px 0px 2px white;-moz-box-shadow: inset 0px 0px 2px white;-webkit-box-shadow: inset 0px 0px 2px white;-o-box-shadow: inset 0px 0px 2px white;-ms-box-shadow: inset 0px 0px 2px white;}
+#meta a:active, #meta a:focus, #searchsubmit:active, #searchsubmit:focus, .edit-link a:active, .edit-link a:focus {background: #425;}
+#meta {margin: 1em 0;}
+#meta ul, #meta li {margin: 0;padding: 0;list-style: none;}
+#meta li, #meta aside {display: inline-block;}
+.user-posts {float: right;width: 300px;padding-left: 20px;}
+.user-posts h4 {margin-top: 0;}
+#content #bottomcontainerBox {border: 0px none;}
+.prank-dialog {width: 320px;border: 2px solid #759;background: white;overflow: hidden;padding: 10px;border-radius: 10px 10px 0px 0px;color: black;margin-bottom: -10px;box-shadow: 2px 2px 10px black;font-size: 120%;}
+.prank-dialog h3 {text-shadow: 2px 2px 2px #435;margin: 0 0 10px 0;}
+.prank-dialog img {width: 80px;height: auto;float: left;margin-right: 20px;}
+@media only screen and (min-device-width:480px) {.prank-dialog {width: 640px;font-size: 240%;border-width: 4px;}
+	.prank-dialog img {width: 160px;margin-right: 40px;}}
+@media only screen and (max-device-width:480px) {#site-title {-webkit-text-size-adjust: 100%;}
+	#site-title span {}}
+@media all and (max-width: 1000px) {#featured-posts ol a .featured-post-quote {font-size: 1.2em;}
+	#content-home #news {width: 65%;}
+	#content-home #features {width: 25%;}
+	#featured-posts .cycle, #featured-posts li a {min-height: 400px;overflow: hidden;}
+	#featured-posts {width: auto;}
+	#featured-posts ol a img {height: 400px;width: auto;}
+	#featured-posts ol a img {margin-left: -100%;}
+	#content {margin: 0px auto;width: auto;}}
+@media all and (max-width: 600px) {#page {margin: 5px;}
+	#content {width: auto;}
+	#site-title {border-bottom: 1px solid white;font-size: 20px;line-height: 16px;height: 16px;}
+	#site-title span {top: 0px;}
+	#site-title a {height: 16px;}
+	#branding #strip {border-bottom: 1px solid white;}
+	#featured-posts .cycle, #featured-posts li a {min-height: 0px;height: 125px;overflow: hidden;}
+	#featured-posts ol a img {height: auto;width: 100%;margin: 0;}
+	#featured-posts ol a .featured-post-title {top: 0px;left: 0px;}
+	#featured-posts ol a .featured-post-quote {bottom: 0px;right: 0px;font-size: 1em;line-height: 1.4em;}
+	#featured-posts ol a .featured-post-title span, #featured-posts ol a .featured-post-quote span {padding: 2px;}
+	#content-home {width: auto;margin: 0;}
+	#content-home #news, #content-home #features {width: auto;float: none;margin: 0;}
+	#menu-main, #access #menu-main-menu, #searchform {position: static;top: 0;}
+	#searchform {opacity: 1;}
+	#searchform input#s {width: 160px;}
+	.wp-caption {width: 40%;}
+	.wp-caption {max-width: 300px;}
+	#banner-quote {font-size: 1.2em;}}
+@media all and (max-width: 600px) and (orientation: landscape) {body {font-size: 60%;}
+	#access, #archive-list, #comment-container, nav {font-size: 16px;line-height: 22px;}}
+@media all and (max-width: 600px) and (orientation: portrait) {body {font-size: 16px;}
+	#featured-posts ol a .featured-post-quote {display: none;}}
+@media all and (max-width: 500px) {#featured-posts .cycle, #featured-posts li a {height: 100px;overflow: hidden;}
+	.wp-caption {max-width: 150px;}}
+@media all and (max-width: 400px) {#featured-posts .cycle, #featured-posts li a {height: 80px;}}
+@media all and (min-width: 1100px) {#content-home {padding: 0 20px;}
+	#branding {padding: 0 20px;}
+	#searchform {right: 30px;}
+	#menu-main, #menu-main-menu {padding-right: 20px;}}
+@media all and (min-width: 1400px) {#content-home {padding: 0 40px;}
+	#branding {padding: 0 40px;}
+	#searchform {right: 50px;}
+	#menu-main, #menu-main-menu {padding-right: 40px;}}
+@media print {#site-title, #branding #strip {border-bottom: 2px solid black;}
+	#footer {border-top: 2px solid black;}
+	#menu, #searchform, #meta, #archive-list {display: none;}
+	.post {overflow: visible;}
+	#featured-posts ol a {color: black;text-shadow: 0px 0px 0px white;}}
