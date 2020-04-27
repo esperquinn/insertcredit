@@ -8,8 +8,8 @@
 		<atom:link href="https://insertcredit.com/show/rss/" rel="self" type="application/rss+xml"/>
 		<itunes:subtitle>The Hot Button Podcast.</itunes:subtitle>
 		<itunes:author>Insert Credit</itunes:author>
-		<itunes:summary>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Edited by Blaine Brown.</itunes:summary>
-		<description>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Edited by Blaine Brown.</description>
+		<itunes:summary>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Hosted by Alex Jaffe. Edited by Blaine Brown.</itunes:summary>
+		<description>A relentlessly on topic smorgasbord of hard hittin' video game questions as addressed by a panel of experts. Featuring Frank Cifaldi, Tim Rogers, Brandon Sheffield. Hosted by Alex Jaffe. Edited by Blaine Brown.</description>
 		<itunes:owner>
 			<itunes:name>Brandon Sheffield</itunes:name>
 			<itunes:email>show@insertcredit.com</itunes:email>
@@ -1180,6 +1180,15 @@
 			<guid>https://archive.org/download/insertcredit/ic128.mp3</guid>
 			<pubDate>Tue, 28 Mar 2017 18:00:00 GMT</pubDate>
 			<itunes:duration>01:18:53</itunes:duration>
+		</item>
+		<item>
+			<title>Ep. 129 - Do Me, Ternal</title>
+			<itunes:subtitle>It's good to be back.</itunes:subtitle>
+			<itunes:summary>Insert Credit: The only show on the internet in which we weekly deliver the loudest news, reviews, tips, and tricks; fresh-dripped, hot from the bottom of video games themselves. Music 'The Only One' From Astral Chain and 'Connor Main Theme' from Detroit: Become Human.</itunes:summary>
+			<enclosure url="https://archive.org/download/insertcredit/ic129.mp3" length="60298896" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic129.mp3</guid>
+			<pubDate>Mon, 27 Apr 2020 04:00:00 GMT</pubDate>
+			<itunes:duration>01:23:09</itunes:duration>
 		</item>
 	</channel>
 </rss>
