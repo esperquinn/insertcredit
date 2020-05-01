@@ -1320,14 +1320,15 @@
             <pubDate>Mon, 27 Apr 2020 04:00:00 GMT</pubDate>
             <itunes:duration>01:23:09</itunes:duration>
         </item>
-		<item>
-			<title>Ep. 130 - Lick the Knife</title>
-			<itunes:subtitle>Frank Cifaldi and the Infinite Magazines.</itunes:subtitle>
-			<itunes:summary>Agree with each other or get the buzzer. Music '34 t u s k' From Yakuza 0 and 'Move Me' from Ridge Racer Type 4.</itunes:summary>
-			<enclosure url="https://archive.org/download/insertcredit/ic130.mp3" length="52925063" type="audio/mpeg"/>
-			<guid>https://archive.org/download/insertcredit/ic130.mp3</guid>
-			<pubDate>Thu, 30 Apr 2020 04:00:00 GMT</pubDate>
-			<itunes:duration>01:12:55</itunes:duration>
-		</item>
+        <item>
+            <title>Ep. 130 - Lick the Knife</title>
+            <itunes:subtitle>Frank Cifaldi and the Infinite Magazines.</itunes:subtitle>
+            <itunes:summary>Agree with each other or get the buzzer. Music '34 t u s k' From Yakuza 0 and 'Move Me' from Ridge Racer Type 4.</itunes:summary>
+            <description>Agree with each other or get the buzzer. Music '34 t u s k' From Yakuza 0 and 'Move Me' from Ridge Racer Type 4.</description>
+            <enclosure url="https://archive.org/download/insertcredit/ic130.mp3" length="52925063" type="audio/mpeg"/>
+            <guid>https://archive.org/download/insertcredit/ic130.mp3</guid>
+            <pubDate>Thu, 30 Apr 2020 04:00:00 GMT</pubDate>
+            <itunes:duration>01:12:55</itunes:duration>
+        </item>
     </channel>
 </rss>
