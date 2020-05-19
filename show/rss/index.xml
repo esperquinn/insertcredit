@@ -1384,5 +1384,15 @@
 			<pubDate>Mon, 11 May 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:17:27</itunes:duration>
 		</item>
+		<item>
+			<title>Ep. 133 - Doom Demon Plate Crash</title>
+			<itunes:subtitle>The Brain Kickstarter</itunes:subtitle>
+			<itunes:summary>Insert Credit and The Whimsical Shooting Simulator. Music 'The Rival (Black Knight - First Battle)' From Shovel Knight and 'Neonlight Galaxy (Combo Mix)' from Penguin Wars.</itunes:summary>
+			<description>Insert Credit and The Whimsical Shooting Simulator. Music 'The Rival (Black Knight - First Battle)' From Shovel Knight and 'Neonlight Galaxy (Combo Mix)' from Penguin Wars.</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic133.mp3" length="63531513" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic133.mp3</guid>
+			<pubDate>Mon, 18 May 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:27:39</itunes:duration>
+		</item>
 	</channel>
 </rss>
