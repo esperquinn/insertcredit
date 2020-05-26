@@ -1392,5 +1392,33 @@
 			<pubDate>Mon, 18 May 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:27:39</itunes:duration>
 		</item>
+		<item>
+			<title>Ep. 134 - Finding the Promontory</title>
+			<itunes:subtitle>The satisfaction of having eaten a full meal in one second</itunes:subtitle>
+			<itunes:summary>Insert Credit has it all: robot turds, dead fish, speedbuns, night candy, and even the satisfaction of having eaten a full meal in one second. Music 'Title Theme' from Sim City SNES and 'PaPaPa Love' from Muscle March.</itunes:summary>
+			<description>
+			<![CDATA[
+				<p>Insert Credit has it all: robot turds, dead fish, speedbuns, night candy, and even the satisfaction of having eaten a full meal in one second. Music 'Title Theme' from Sim City SNES and 'PaPaPa Love' from Muscle March.
+				<p><b>Questions this week:</b></p> 
+				<ol>
+					<li>Genre Subversion (06:58)</li>
+					<li>Getting Stuck (13:04)</li>
+					<li>Good Game Sound Effects (19:18)</li>
+					<li>Business Games (25:42)</li>
+					<li>Video Game Marching Band (Parappa Sucks) (31:16)</li>
+					<li>Brian from Patreon asks about: Renaming Video Games (38:02)</li>
+					<li>The Correct Size of an RPG Party (46:52)</li>
+					<li>Limited Run Games (53:09)</li>
+					<li>Playing Games Wrong (59:12) </li>
+				</ol>
+				
+				<p>LIGHTNING ROUND: NAME DESIGN (1:05:24)</p>
+			]]>
+			</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic134.mp3" length="57025017" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic134.mp3</guid>
+			<pubDate>Mon, 25 May 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:17:27</itunes:duration>
+		</item>
 	</channel>
 </rss>
