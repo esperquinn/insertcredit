@@ -1398,7 +1398,7 @@
 			<itunes:summary>Insert Credit has it all: robot turds, dead fish, speedbuns, night candy, and even the satisfaction of having eaten a full meal in one second. Music 'Title Theme' from Sim City SNES and 'PaPaPa Love' from Muscle March.</itunes:summary>
 			<description>
 			<![CDATA[
-				<p>Insert Credit has it all: robot turds, dead fish, speedbuns, night candy, and even the satisfaction of having eaten a full meal in one second. Music 'Title Theme' from Sim City SNES and 'PaPaPa Love' from Muscle March.
+				<p>Insert Credit has it all: robot turds, dead fish, speedbuns, night candy, and even the satisfaction of having eaten a full meal in one second. Music 'Title Theme' from Sim City SNES and 'PaPaPa Love' from Muscle March.</p>
 				<p><b>Questions this week:</b></p> 
 				<ol>
 					<li>Genre Subversion (06:58)</li>
@@ -1419,6 +1419,35 @@
 			<guid>https://archive.org/download/insertcredit/ic134.mp3</guid>
 			<pubDate>Mon, 25 May 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:17:27</itunes:duration>
+		</item>
+		<item>
+			<title>Ep. 135 - Tim Schafer Definitely Listens to This Show</title>
+			<itunes:subtitle>Gotta Fro Grast, Randomize your Chicken, and head on down to OnlyFranks.com on this week's Insert Credit.</itunes:subtitle>
+			<itunes:summary>Gotta Fro Grast, Randomize your Chicken, and head on down to OnlyFranks.com on this week's Insert Credit. Music 'Intro' From Digital Pinball - Last Gladiators and 'Dunes' from Xeno Crisis.</itunes:summary>
+			<description>
+			<![CDATA[
+				<p>Gotta Fro Grast, Randomize your Chicken, and head on down to OnlyFranks.com on this week's Insert Credit. Music 'Intro' From Digital Pinball - Last Gladiators and 'Dunes' from Xeno Crisis.</p>
+				<p><b>Questions this week:</b></p> 
+				<ol>
+					<li>Jigsaw puzzles (05:36)</li>
+					<li>The Next Video Game Animal Star (11:24)</li>
+					<li>Universal Standard Game Length Time (17:37)</li>
+					<li>Soundtracks to Dance To (24:25)</li>
+					<li>The Improv Zone: Magazines, YouTube, & Insert Credit (30:19)</li>
+					<li>The Velvet Underground and Nico of Video Games Question by Patreon Supporter Esper (36:06)</li>
+					<li>Video Game Offices (The Mortal Kombat Ad) (42:36)</li>
+					<li>Localizing American Video Games (48:08)</li>
+					<li>Video Game Characters on TikTok (54:14)</li>
+					<li>Ranking the Decades (1:00:03)</li>
+				</ol>
+				
+				<p>LIGHTNING ROUND: Flavor of the Month (1:06:24)</p>
+			]]>
+			</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic135.mp3" length="54351183" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic135.mp3</guid>
+			<pubDate>Mon, 1 Jun 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:14:54</itunes:duration>
 		</item>
 	</channel>
 </rss>
