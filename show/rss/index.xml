@@ -1449,5 +1449,19 @@
 			<pubDate>Mon, 1 Jun 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:14:54</itunes:duration>
 		</item>
+		<item>
+			<title>Ep. 136 - PS2CULAR</title>
+			<itunes:subtitle>If it's gotta be one, it's gotta be 2.</itunes:subtitle>
+			<itunes:summary>If it's gotta be one, it's gotta be 2. Ranking games from the PS2. Music 'Magical Sound Shower EuroMix' From OutRun 2006 Coast 2 Coast and 'Ghost Approaching (Stage 4)' from Bujingai.</itunes:summary>
+			<description>
+			<![CDATA[
+				<p>If it's gotta be one, it's gotta be 2. Ranking games from the PS2. Music 'Magical Sound Shower EuroMix' From OutRun 2006 Coast 2 Coast and 'Ghost Approaching (Stage 4)' from Bujingai.</p>
+			]]>
+			</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic136.mp3" length="81410511" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic136.mp3</guid>
+			<pubDate>Mon, 8 Jun 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:52:28</itunes:duration>
+		</item>
 	</channel>
 </rss>
