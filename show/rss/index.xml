@@ -1519,5 +1519,34 @@
 			<pubDate>Mon, 15 Jun 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:26:15</itunes:duration>
 		</item>
+		<item>
+			<title>Ep. 138 - Dumb-Like-A-Baby Stupid</title>
+			<itunes:subtitle>There is no 'I' in Top Gear.</itunes:subtitle>
+			<itunes:summary>There is no 'I' in Top Gear. Music 'Toe The Line' from Wolfenstein - The New Order and 'Blue Level' from Tempest 2000.</itunes:summary>
+			<description>
+			<![CDATA[
+				<p>There is no 'I' in Top Gear. Music 'Toe The Line' from Wolfenstein - The New Order and 'Blue Level' from Tempest 2000.</p>
+				<p><b>Questions this week:</b></p> 
+				<ol>
+					<li>The Good Itch (05:02)</li>
+					<li>Revive a Franchise (13:41)</li>
+					<li>Greatest Frauds (20:05)</li>
+					<li>WB Gaming Bid (29:07)</li>
+					<li>Theme Sale (35:55)</li>
+					<li>Best Pre-90s Games - Question by Patreon Supporter Samuel (44:33)</li>
+					<li>Delay Announcement Strats (51:42)</li>
+					<li>Crouching (58:30)</li>
+					<li>Character Diet (1:05:03)</li>
+					<li>What Are The Whats of Video Games? (1:11:14)</li>
+				</ol>
+				
+				<p>LIGHTNING ROUND: Name Design Trump Edition (1:19:53)</p>
+			]]>
+			</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic138.mp3" length="68767023" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic138.mp3</guid>
+			<pubDate>Mon, 22 Jun 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:34:55</itunes:duration>
+		</item>
 	</channel>
 </rss>
