@@ -1575,5 +1575,34 @@
 			<pubDate>Mon, 29 Jun 2020 03:59:00 GMT</pubDate>
 			<itunes:duration>01:17:13</itunes:duration>
 		</item>
+		<item>
+			<title>Ep. 140 - The Other Belmont</title>
+			<itunes:subtitle>In this episode of Insert Credit, we delve into the contents of the latest issue of Game Speculator.</itunes:subtitle>
+			<itunes:summary>In this episode of Insert Credit, we delve into the contents of the latest issue of Game Speculator. Music 'Theme of the Cheetahmen' from Action 52, Remix by YouTube User GaMetal Remix and 'Reincarnated Soul, Part 2 (Stage 1)' from Castlevania Bloodlines. </itunes:summary>
+			<description>
+			<![CDATA[
+				<p>subtitle.</p>
+				<p><b>Questions this week:</b></p> 
+				<ol>
+					<li>The Legacy of Andy McNamara (05:03)</li>
+					<li>Is Video Game Box Art Important? (11:41)</li>
+					<li>Worst Industry First Impressions (17:42)</li>
+					<li>Video Game Dog Toys (24:20)</li>
+					<li>THEME SALE: Super Punch-Out, Skies of Arcadia, Ratchet & Clank Future: A Crack in Time, Resonance of Fate, The Elder Scrolls V: Skyrim (30:22)</li>
+					<li>What beloved games are mostly regarded for their localization? Question by Patreon Supporter Colin (41:25)</li>
+					<li>The “Luck” Stat (48:11)</li>
+					<li>The Most Inaccurately Adapted Sport (53:50)</li>
+					<li>Super Coen Bros. (1:00:25)</li>
+					<li>The New York, California, Nevada, Indiana, and Florida of Video Games (1:07:32)</li>
+				</ol>
+				
+				<p>LIGHTNING ROUND: Name a Fake Castlevania Game (1:15:07)</p>
+			]]>
+			</description>
+			<enclosure url="https://archive.org/download/insertcredit/ic140.mp3" length="61135641" type="audio/mpeg"/>
+			<guid>https://archive.org/download/insertcredit/ic140.mp3</guid>
+			<pubDate>Mon, 6 Jul 2020 03:59:00 GMT</pubDate>
+			<itunes:duration>01:24:19</itunes:duration>
+		</item>
 	</channel>
 </rss>
