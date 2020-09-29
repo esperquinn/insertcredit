@@ -1940,7 +1940,36 @@
 			<guid>https://show.insertcred.it/151.mp3</guid>		
 			<pubDate>Mon, 21 Sep 2020 03:59:00 GMT</pubDate>		
 			<itunes:duration>1:14:47</itunes:duration>		
-		</item>			
+		</item>	
+		<item>			
+	<title>Ep. 152 - Doctors Hate Tim!</title>		
+	<itunes:subtitle>Don’t buy tables that have gun holes in them. Opening and closing theme created by Kurt Feldman.</itunes:subtitle>		
+	<itunes:summary>Don’t buy tables that have gun holes in them. Opening and closing theme created by Kurt Feldman.</itunes:summary>		
+	<description>		
+	<![CDATA[		
+		<p>Don’t buy tables that have gun holes in them. Opening and closing theme created by Kurt Feldman.</p>	
+		<p><b>Questions this week:</b></p>	
+		<ol>	
+			<li>Future Club slogan and jingle (03:34)</li>
+			<li>Does rumble really matter? (09:01)</li>
+			<li>Is it time to panic over Microsoft acquiring Zenimax? (14:22)</li>
+			<li>Game director signature shots (20:29)</li>
+			<li>Helping video game characters with tax breaks (26:39)</li>
+			<li>Patreon Supporter Golok asks about the best video game cold opens (34:44)</li>
+			<li>Rearranging level order (41:11)</li>
+			<li>Saving the Mass Effect franchise (46:55)</li>
+			<li>Five best video game documentaries (52:10)</li>
+			<li>Musou games in other time periods (01:01:51)</li>
+		</ol>	
+			
+			
+	]]>		
+	</description>		
+	<enclosure url="https://archive.org/download/insert_credit/ic152.mp3" length="54415902" type="audio/mpeg"/>		
+	<guid>https://archive.org/download/insert_credit/ic152.mp3</guid>		
+	<pubDate>Mon, 28 Sep 2020 03:59:00 GMT</pubDate>		
+	<itunes:duration>1:15:34</itunes:duration>		
+</item>
 
 	</channel>
 </rss>
